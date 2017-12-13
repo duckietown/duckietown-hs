@@ -1,0 +1,6 @@
+data/X_NUCLEO_COMMON.lib.i
+data/LSM6DSLSensor.cpp.i
+data/LSM6DSL_acc_gyro_driver.c.i
+data/LSM6DSL_acc_gyro_driver.h.i
+data/LSM6DSLSensor.h.i
+data/ST_INTERFACES.lib.i

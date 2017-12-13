@@ -1,0 +1,10 @@
+data/LSM303AGR_acc_driver.h.i
+data/LSM303AGR_acc_driver.c.i
+data/LSM303AGRMagSensor.h.i
+data/X_NUCLEO_COMMON.lib.i
+data/LSM303AGR_mag_driver.h.i
+data/LSM303AGRMagSensor.cpp.i
+data/LSM303AGRAccSensor.h.i
+data/LSM303AGRAccSensor.cpp.i
+data/ST_INTERFACES.lib.i
+data/LSM303AGR_mag_driver.c.i

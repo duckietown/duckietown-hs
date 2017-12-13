@@ -1,0 +1,6 @@
+data/LPS22HBSensor.h.i
+data/LPS22HBSensor.cpp.i
+data/X_NUCLEO_COMMON.lib.i
+data/LPS22HB_driver.c.i
+data/ST_INTERFACES.lib.i
+data/LPS22HB_driver.h.i

@@ -1,0 +1,6 @@
+data/HTS221_driver.h.i
+data/HTS221Sensor.cpp.i
+data/X_NUCLEO_COMMON.lib.i
+data/HTS221_driver.c.i
+data/HTS221Sensor.h.i
+data/ST_INTERFACES.lib.i
